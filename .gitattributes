@@ -1,1 +1,1 @@
-*.h5 filter=lfs diff=lfs merge=lfs -text
+Tree_Species_Dataset/** filter=lfs diff=lfs merge=lfs -text
