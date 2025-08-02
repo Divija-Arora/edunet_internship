@@ -12,3 +12,5 @@ Link to Colab Notebook - https://colab.research.google.com/drive/1jSDSLsDlPo_Wbb
 #### WEEK-2 - I mounted the dataset directly from Google Drive into Google Colab, ensuring seamless and persistent access. I analyzed image dimensions to identify inconsistencies and detected duplicate images using MD5 hashing, which helped clean the dataset for better model performance. Additionally, I applied real-time data augmentation techniques such as rotation, zoom, shear, and horizontal flipping using ImageDataGenerator, along with proper training-validation splits. These steps collectively improved data quality and prepared the dataset for robust model training.
 
 Link to Colab Notebook - https://colab.research.google.com/drive/1jSDSLsDlPo_Wbb2knjSQk8bnBMLHY4Dm?usp=sharing
+
+Link to Kaggle Notebook - https://www.kaggle.com/code/divijaarrorra/efficient-net
