@@ -13,9 +13,9 @@ Link to Colab Notebook - https://colab.research.google.com/drive/1jSDSLsDlPo_Wbb
 
 Link to Colab Notebook - https://colab.research.google.com/drive/1jSDSLsDlPo_Wbb2knjSQk8bnBMLHY4Dm?usp=sharing
 
-Earlier i comapred the three models and at first all the three models were attaining the accuracy ranging between 10 - 30 %, lol!
+Earlier i compared the three models and at first all the three models were attaining the accuracy ranging between 10 - 30 %, lol!
 
-Now my model is 98% appx. accurate!
+Now my model is **98%** appx. accurate!
 
 Link to Kaggle Notebook - https://www.kaggle.com/code/divijaarrorra/efficient-net
 
