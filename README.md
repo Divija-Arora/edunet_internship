@@ -13,6 +13,9 @@ Link to Colab Notebook - https://colab.research.google.com/drive/1jSDSLsDlPo_Wbb
 
 Link to Colab Notebook - https://colab.research.google.com/drive/1jSDSLsDlPo_Wbb2knjSQk8bnBMLHY4Dm?usp=sharing
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/efd9198d-4842-4397-a936-4d7c1310fc59" />
+
+
 Earlier i compared the three models and at first all the three models were attaining the accuracy ranging between 10 - 30 %, lol!
 
 Now my model is **98%** appx. accurate!
